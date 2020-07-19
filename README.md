@@ -13,9 +13,9 @@
 
 # Note: This Project contains many forms with details as follows:
 * React Hooks_Form with Validation:
-      This File/Form uses State method in Hooks for an interactive Form experience.
+      This File/Form uses State method in Hooks for an interactive Form experience & inlcude Validation.
      
-* Uniform Library Forms:
+* Uniform Library Forms (Supports Validation):
       This Form/File contains a (Guest) Schema file for input fields & Automatically Creates a Form Based on User Input using the main file as parent component (Hooks_Form.js).   
 * Dependencies for Unifroms Library:
 > $ npm install uniforms   
