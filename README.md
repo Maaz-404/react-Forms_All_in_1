@@ -15,7 +15,7 @@
      
 * Uniform Library Forms (Supports Validation):  This Form/File contains a (Guest) Schema file for input fields & Automatically Creates a Form Based on User Input using the main file as parent component (Hooks_Form.js).
 > $ Difficulty : Easy
-  $ Dependencies for Unifroms Library:
+> $ Dependencies for Unifroms Library:
 > $ npm install uniforms   
 > $ npm install uniforms-bridge-json-schema  
 > $ npm install uniforms-semantic   
