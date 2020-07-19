@@ -8,7 +8,7 @@ export default function UniLibraryForm() {
   return (
     <div>
     <h1>_______________________________________</h1>
-    <h1> Uniforms Library Form </h1>
+    <h2> Uniforms Library Form </h2>
     <AutoForm schema={GuestSchema} onSubmit={console.log} />;
     </div>
   )

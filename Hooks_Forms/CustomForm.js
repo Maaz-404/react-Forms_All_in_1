@@ -14,7 +14,7 @@ export default function CustomForm(){
   return (
     
     <form onSubmit={handleSubmit}>
-    <h1> Simple Hooks Form : No validation </h1>
+    <h2> Simple Hooks Form : No validation </h2>
       <label>
         Frirst Name:
         <input
