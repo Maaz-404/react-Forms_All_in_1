@@ -1,3 +1,5 @@
-# react-cilqv7
+# This App Uses Functional Components
+--> Controlled Forms are made with Hooks(state) in functional components & Include Validation
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-cilqv7)
+You can #Contribute to this app live in browser using StackBlitz Environment With no need for signup
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-controlled-forms-validation)
