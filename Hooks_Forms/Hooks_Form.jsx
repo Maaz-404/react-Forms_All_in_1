@@ -22,8 +22,7 @@ const HooksForm = () => {
 
     <div>
     <h2>________________________________________________
-     React Hooks Controlled Form Component with Validation 
-     </h2>
+     React Hooks Controlled Form component with Validation </h2>
     <form>
       <input
         value={firstName}

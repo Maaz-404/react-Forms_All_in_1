@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { render } from 'react-dom';
 
 // These 2 are simple forms with react Hooks
-import CustomForm from './Hooks_Forms/CustomForm';
+import Simple_State_Form from './Hooks_Forms/Simple_State_Form';
 
 import HooksForm from './Hooks_Forms/Hooks_Form';
 
@@ -20,7 +20,7 @@ render(
   <div>
   <h1>This react App is created using Functional Components</h1>
   <HooksForm />
-  <CustomForm />
+  <Simple_State_Form />
   <UniLibraryForm />
    </div>,
   

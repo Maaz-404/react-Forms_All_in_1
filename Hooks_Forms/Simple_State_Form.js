@@ -1,8 +1,7 @@
 import React from 'react';
-//For Simple Form
 import React, { useState } from "react";
 
-export default function CustomForm(){
+export default function Simple_State_Form(){
 
  const [name, setName] = useState("");
 
@@ -14,7 +13,8 @@ export default function CustomForm(){
   return (
     
     <form onSubmit={handleSubmit}>
-    <h2> Simple Hooks Form : No validation </h2>
+    <h1>__________________________________________________________</h1>
+    <h2> Simple State Form : No validation </h2>
       <label>
         Frirst Name:
         <input
