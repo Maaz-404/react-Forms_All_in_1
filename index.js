@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { render } from 'react-dom';
-import CustomForm from './CustomForm';
+import CustomForm from './Hooks_Forms/CustomForm';
 import UniLibraryForm from './UniformsLibraryForms/Uni_lib_Form';
 import './style.css';
 

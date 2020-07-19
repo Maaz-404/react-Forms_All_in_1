@@ -14,7 +14,7 @@ export default function CustomForm(){
   return (
     
     <form onSubmit={handleSubmit}>
-    <h1> Custom Stateful Form </h1>
+    <h1> Simple Hooks Form : No validation </h1>
       <label>
         Frirst Name:
         <input
